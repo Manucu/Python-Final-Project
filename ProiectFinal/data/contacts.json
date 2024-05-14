@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Emanuel",
+        "address": "1 Streamstown,Ratoath,Ireland",
+        "phone": "0894158749",
+        "email": "manuku_niculai@yahoo.com",
+        "birthday": "1993-02-13"
+    },
+    {
+        "name": "Ligia",
+        "address": "1 Streamstown,Ratoath",
+        "phone": "0894158695",
+        "email": "ligia_damsa@yahoo.com",
+        "birthday": "1995-09-26"
+    },
+    {
+        "name": "Ana Noelia",
+        "address": "1 Streamstown",
+        "phone": "0987654321",
+        "email": "ana@yahoo.com",
+        "birthday": "2019-12-23"
+    },
+    {
+        "name": "Maia",
+        "address": "1 Streamstown",
+        "phone": "0123456789",
+        "email": "maia@yahoo.com",
+        "birthday": "2022-05-13"
+    },
+    {
+        "name": "Amos",
+        "address": "1 Streamstown",
+        "phone": "0897654321",
+        "email": "amos@yahoo.com",
+        "birthday": "2023-05-15"
+    }
+]
